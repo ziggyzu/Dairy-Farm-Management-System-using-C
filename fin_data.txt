@@ -1,0 +1,6 @@
+Total Milk Sales: 0.00
+Total Calf Sales: 0.00
+Total Veterinary Costs: 0.00
+Total Labor Costs: 0.00
+Total Feed Costs: 0.00
+Total Equipment Costs: 0.00
